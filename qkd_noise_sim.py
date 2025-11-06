@@ -35,5 +35,5 @@ corrected, fixed = correct_errors(noisy, original_key)
 print("Original Secret Key (from Earth to Satellite):", original_key)
 print("Noisy Key (After Space Static):", noisy)
 print("Fixed Key (Error Correction Magic):", corrected)
-print(f"Fixed {fixed} bad bits! Like making QKD work in noisy space (your dissertation style).")
+print(f"Fixed {fixed} bad bits! Like making QKD work in noisy space.")
 # Tip: Run multiple times to see more/less noise!
